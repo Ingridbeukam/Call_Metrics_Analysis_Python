@@ -46,6 +46,20 @@ Ce projet Python vise à analyser un dataset issu de Kaggle concernant les perfo
 - Évolution du temps moyen de traitement
 - Identification des jours critiques
 
+
+## ✅ Conclusion
+Cette analyse du dataset Call Metrics a permis de mettre en évidence les dynamiques clés d’un centre d’appels. Elle révèle notamment que certains agents se démarquent par leur productivité, tandis que d'autres montrent une meilleure régularité dans la qualité ou le temps de traitement. 
+Les jours les plus critiques en volume d’appels sont également identifiés, ce qui peut guider l'optimisation des ressources humaines.
+
+Une piste d'amélioration serait d'approfondir l'analyse avec des données complémentaires telles que :
+
+Les retours clients ou taux de satisfaction
+
+Les horaires précis des appels
+
+La typologie des demandes
+
+Ce projet constitue une base solide pour développer un tableau de bord interactif ou implémenter un système d’aide à la décision pour les responsables d’équipes.
 ---
 
 **Dataset source** : [Kaggle - Call Metrics Dataset](https://www.kaggle.com/)
