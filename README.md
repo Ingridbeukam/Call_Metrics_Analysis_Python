@@ -59,7 +59,10 @@ Les horaires précis des appels
 
 La typologie des demandes
 
-Ce projet constitue une base solide pour développer un tableau de bord interactif ou implémenter un système d’aide à la décision pour les responsables d’équipes.
+### Ce projet constitue une base solide pour développer un tableau de bord interactif ou implémenter un système d’aide à la décision pour les responsables d’équipes.
 ---
 
 **Dataset source** : [Kaggle - Call Metrics Dataset](https://www.kaggle.com/)
+
+### 📬 Contact
+Tu peux me contacter via ingridbeukam@gmail.com ou LinkedIn https://www.linkedin.com/in/ingrid-madjougang-beukam/ pour toute question ou suggestion.
